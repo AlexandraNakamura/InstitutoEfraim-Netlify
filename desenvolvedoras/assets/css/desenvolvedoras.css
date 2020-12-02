@@ -141,7 +141,8 @@
 }
 
 div.member:hover{
-  transform: scale(1.05);
+  transform: scale(1.025);
+  animation-delay: 0.2s;
 }
 
 .dev .member h4 {
