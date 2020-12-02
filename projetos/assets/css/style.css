@@ -384,6 +384,9 @@ body div.jumbotron-with-background.jumbotron-fluid{
   padding-top: 12em;
 }
 
+.text-white {
+    text-shadow: #000 2px 3px 2px !important;
+}
 
 
 .portfolio-details {
