@@ -142,7 +142,7 @@
 
 div.member:hover{
   transform: scale(1.025);
-  animation-delay: 0.2s;
+  transition: all 0.3s ease;
 }
 
 .dev .member h4 {
