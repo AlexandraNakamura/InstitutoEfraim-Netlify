@@ -140,7 +140,7 @@
   transition: ease-in-out 0.3s;
 }
 
-.dev .member:hover img {
+.dev .member:hover member {
   transform: scale(1.1);
 }
 
