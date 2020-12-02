@@ -140,8 +140,8 @@
   transition: ease-in-out 0.3s;
 }
 
-div.row div.d-flex.align-items-stretch div.member:hover{
-  transform: scale(1.1);
+div.member:hover{
+  transform: scale(1.05);
 }
 
 .dev .member h4 {
